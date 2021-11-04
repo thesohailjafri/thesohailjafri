@@ -30,7 +30,7 @@
 <p align="center">
 &nbsp; <a href="https://www.instagram.com/thesohailjafri/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="mailto:thesohailjafri@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/new-post.png"  width="50" /></a>
-&nbsp; <a href="https://www.facebook.com/sohail.jafri.908/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/facebook.png
+&nbsp; <a href="https://www.facebook.com/sohail.jafri.908/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/facebook.png" width="50" /></a>
 </p>
 
 
