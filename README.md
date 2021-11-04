@@ -1,23 +1,21 @@
-<h2> Hey there! I'm souvik. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm Sohail. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🔭 &nbsp; I’m currently learning API Development with Node.js and Next.js for server side rendering.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- 🎓 &nbsp; Studying Computer Programming and Web Development.
+- 🌱 &nbsp; Enthusiast in Machine Learning and Artificial Intelligence.
+- ☕ &nbsp; I belive, a perfect Vs Code setup can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Dart | Java | C++  
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+- 💻 &nbsp; Javascript | Node.js
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Tailwind  
+- 🛢 &nbsp; MongoDB | Mongoose | Express.js
+- 🔧 &nbsp; Visual Studio code | Git
+- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
 
 <br>
 
@@ -25,7 +23,7 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesohailjafri&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
