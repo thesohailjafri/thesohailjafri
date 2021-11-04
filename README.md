@@ -1,6 +1,5 @@
 <h2> Hey there! Myself Sohail. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-
-<img align="right" alt="GIF" src="https://img.icons8.com/color/240/000000/github-2.png"/>
+<img src="https://img.icons8.com/nolan/256/github.png"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
