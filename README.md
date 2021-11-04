@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Sohail. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hey there! Myself Sohail. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
 <img align="right" alt="GIF" src="https://img.icons8.com/color/240/000000/github-2.png"/>
 
