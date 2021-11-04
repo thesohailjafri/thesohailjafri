@@ -27,3 +27,6 @@
 
 
 <h3> 🤝🏻 Connect with Me </h3>
+<p align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=thesohailjafri" id="counter">
+</p>
