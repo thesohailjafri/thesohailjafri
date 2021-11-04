@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Sohail. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
-<img align="right" alt="GIF" src="https://img.icons8.com/color/240/000000/github--v3.png"/>
+<div align="right" alt="GIF" class="tenor-gif-embed" data-postid="14794084" data-share-method="host" data-aspect-ratio="1.50235" data-width="100%"><a href="https://tenor.com/view/computer-nerds-geeky-coding-hack-gif-14794084">Computer Nerds GIF</a>from <a href="https://tenor.com/search/computer-gifs">Computer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
