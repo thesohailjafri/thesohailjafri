@@ -28,9 +28,11 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 <p align="center">
-&nbsp; <a href="https://www.instagram.com/thesohailjafri/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/wired/64/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="mailto:thesohailjafri@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/wired/64/000000/apple-mail.png"  width="50" /></a>
+&nbsp; <a href="https://www.instagram.com/thesohailjafri/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="mailto:thesohailjafri@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/new-post.png"  width="50" /></a>
 </p>
+
+
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=thesohailjafri" id="counter">
 </p>
