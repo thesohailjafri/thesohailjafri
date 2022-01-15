@@ -1,13 +1,13 @@
-<h2> Hey there! Myself Sohail. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hey there! Myself Sohail Jafri 👋</h2>
 
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning API Development with Node.js and Next.js for server side rendering.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Programming and Web Development.
+- 🔭 &nbsp; I’m currently learning Node.js, Next.js, Data-structure using JS and Tensorflow.js.
+- 🤔 &nbsp; Exploring new technologies and development strategies.
+- 🎓 &nbsp; Studying AI and Web Development.
 - 🌱 &nbsp; Enthusiast in Machine Learning and Artificial Intelligence.
-- ☕ &nbsp; I belive, a perfect Vs Code setup can be the ultimate solution for easy developer life. 
+- ☕ &nbsp; I belive, a perfect Vs Code setup can be the ultimate solution for an easy developer life. 
 
 <h3>🛠 Tech Stack</h3>
 
