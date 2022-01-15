@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies and development strategies.
 - 🎓 &nbsp; Studying AI and Web Development.
 - 🌱 &nbsp; Enthusiast in Machine Learning and Artificial Intelligence.
-- ☕ &nbsp; I belive, a perfect Vs Code setup can be the ultimate solution for an easy developer life. 
+- ☕ &nbsp; I belive, a Perfect Vs Code setup can be the ultimate solution for an easy developer life. 
 
 <h3>🛠 Tech Stack</h3>
 
