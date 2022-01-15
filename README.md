@@ -12,9 +12,9 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Javascript | Node.js
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Tailwind  
-- 🛢 &nbsp; MongoDB | Mongoose | Express.js
-- 🔧 &nbsp; Visual Studio code | Git
+- 🌐 &nbsp; HTML | CSS | SCSS | JavaScript | Bootstrap | TailwindCSS
+- 🛢 &nbsp; MySQL | MongoDB | Mongoose | Express.js
+- 🔧 &nbsp; Visual Studio code | Git | GitHub
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
 
 <br>
