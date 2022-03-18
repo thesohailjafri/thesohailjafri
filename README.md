@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Node.js, Next.js, Data-structure using JS and Tensorflow.js.
+- 🔭 &nbsp; I’m currently learning Machine Learning using python.
 - 🤔 &nbsp; Exploring new technologies and development strategies.
 - 🎓 &nbsp; Studying AI and Web Development.
 - 🌱 &nbsp; Enthusiast in Machine Learning and Artificial Intelligence.
@@ -12,8 +12,8 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Javascript | Node.js
-- 🌐 &nbsp; HTML | CSS | SCSS | JavaScript | Bootstrap | TailwindCSS
-- 🛢 &nbsp; MySQL | MongoDB | Mongoose | Express.js
+- 🌐 &nbsp; HTML | CSS | SCSS | JavaScript | React.js | Next.js | TailwindCSS
+- 🛢 &nbsp; MySQL | MongoDB | Mongoose | Express.js | 
 - 🔧 &nbsp; Visual Studio code | Git | GitHub
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
 
