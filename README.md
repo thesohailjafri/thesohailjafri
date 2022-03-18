@@ -13,7 +13,7 @@
 
 - 💻 &nbsp; Javascript | Node.js
 - 🌐 &nbsp; HTML | CSS | SCSS | JavaScript | React.js | Next.js | TailwindCSS
-- 🛢 &nbsp; MySQL | MongoDB | Mongoose | Express.js | 
+- 🛢 &nbsp; MySQL | MongoDB | Mongoose | Express.js 
 - 🔧 &nbsp; Visual Studio code | Git | GitHub
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
 
