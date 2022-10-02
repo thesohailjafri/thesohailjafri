@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Machine Learning using python.
+- 🔭 &nbsp; I’m currently learning Native development.
 - 🤔 &nbsp; Exploring new technologies and development strategies.
 - 🎓 &nbsp; Studying AI and Web Development.
 - 🌱 &nbsp; Enthusiast in Machine Learning and Artificial Intelligence.
