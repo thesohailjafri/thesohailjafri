@@ -3,9 +3,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Native development.
+- 🔭 &nbsp; I’m currently learning System design, Devops and Containerization.
 - 🤔 &nbsp; Exploring new technologies and development strategies.
-- 🎓 &nbsp; Studying AI and Web Development.
+- 🎓 &nbsp; Bachelor of Engineering, IT.
 - 🌱 &nbsp; Enthusiast in Machine Learning and Artificial Intelligence.
 - ☕ &nbsp; I belive, a Perfect Vs Code setup can be the ultimate solution for an easy developer life. 
 
@@ -14,7 +14,7 @@
 - 💻 &nbsp; Javascript | Node.js
 - 🌐 &nbsp; HTML | CSS | SCSS | JavaScript | React.js | Next.js | TailwindCSS
 - 🛢 &nbsp; MySQL | MongoDB | Mongoose | Express.js 
-- 🔧 &nbsp; Visual Studio code | Git | GitHub
+- 🔧 &nbsp; Visual Studio code | Git | GitHub | AWS
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
 
 <br>
