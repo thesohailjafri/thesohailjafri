@@ -18,9 +18,19 @@
 
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=thesohailjafri&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=algolia" alt="thesohailjafri's Github Stats">
-</br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesohailjafri&layout=compact&theme=algolia)](https://github.com/thesohailjafri/github-readme-stats)
+  
+   <a href="https://github.com/thesohailjafri/github-readme-streak-stats">
+   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="thesohailjafri's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thesohailjafri&theme=algolia"/>
+  </a>
+  <br/>
+  
+<details>
+   <summary><h3>🏆Github Trophies</h3></summary>
+   <br/>
+  <img alt="thesohailjafri's Activity Graph" src="https://github-profile-trophy.vercel.app/?username=thesohailjafri&theme=algolia" />
+</details>  
 
 <h3> 🤝🏻 Connect with Me </h3>
 <p align="center">
@@ -32,20 +42,8 @@
 &nbsp; <a href="https://thesohailjafri.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/64/web-design.png" width="50" /></a>
 </p>
 
-<details>
-  <summary><h3>🔥GitHub Streak</h3></summary>
-  <br/>
-   <a href="https://github.com/thesohailjafri/github-readme-streak-stats">
-   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="thesohailjafri's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thesohailjafri&theme=algolia"/>
-  </a>
-  <br/>
-</details>                                                                          
-<details>
-   <summary><h3>🏆Github Trophies</h3></summary>
-   <br/>
-  <img alt="thesohailjafri's Activity Graph" src="https://github-profile-trophy.vercel.app/?username=thesohailjafri&theme=algolia" />
-</details>  
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=thesohailjafri" id="counter">
 </p>
+
 
