@@ -6,26 +6,20 @@
 - 🤔 &nbsp; Exploring new technologies and development strategies.
 - 🎓 &nbsp; Bachelor of Engineering, IT.
 - 🌱 &nbsp; Enthusiast in Machine Learning and Artificial Intelligence.
-- ☕ &nbsp; I belive, a Perfect Vs Code setup can be the ultimate solution for an easy developer life. 
+- ☕ &nbsp; I believe a Perfect Vs Code setup can be the ultimate solution for an easy developer life. 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Javascript | Node.js
+- 💻 &nbsp; Javascript | Node.js 
 - 🌐 &nbsp; HTML | CSS | SCSS | JavaScript | React.js | Next.js | TailwindCSS
 - 🛢 &nbsp; MySQL | MongoDB | Mongoose | Express.js 
 - 🔧 &nbsp; Visual Studio code | Git | GitHub | AWS
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
 
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=thesohailjafri&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=algolia" alt="thesohailjafri's Github Stats">
+<img alt="thesohailjafri's Github streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thesohailjafri&theme=algolia"/>
+<img alt="thesohailjafri's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thesohailjafri&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&count_private=true&show_icons=true&&theme=algolia"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesohailjafri&layout=compact&theme=algolia" alt="thesohailjafri's Github Lang"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesohailjafri&layout=compact&theme=algolia)](https://github.com/thesohailjafri/github-readme-stats)
-  
-   <a href="https://github.com/thesohailjafri/github-readme-streak-stats">
-   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="thesohailjafri's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thesohailjafri&theme=algolia"/>
-  </a>
-  <br/>
-  
 <details>
    <summary><h3>🏆Github Trophies</h3></summary>
    <br/>
