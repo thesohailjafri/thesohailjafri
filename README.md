@@ -35,8 +35,6 @@ alt="Recoil"/>
 alt="Zustand"/>
 <img src="https://img.shields.io/badge/React%20Query-000000?style=for-the-badge&logo=react-query&logoColor=white"
 alt="React Query"/>
-<img src="https://img.shields.io/badge/React%20Hook%20Form-000000?style=for-the-badge&logo=react-hook-form&logoColor=white"
-alt="React Hook Form"/>
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"
 alt="Jest"/>
 <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"
@@ -60,8 +58,6 @@ alt="Express.js"/>
 alt="GraphQL"/>
 <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql"
 alt="Apollo GraphQL"/>
-<img src="https://img.shields.io/badge/Prisma-1B222D?style=for-the-badge&logo=prisma&logoColor=white"
-alt="Prisma"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
 alt="PostgreSQL"/>
 <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white"
@@ -74,13 +70,9 @@ alt="Socket.io"/>
 alt="Stripe"/>
 <img src="https://img.shields.io/badge/Sanity-000000?style=for-the-badge&logo=sanity&logoColor=white"
 alt="Sanity"/>
-<img src="https://img.shields.io/badge/Appwrite-f00000?style=for-the-badge&logo=appwrite&logoColor=white"
-alt="Appwrite"/>
 
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"
 alt="Docker"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"
-alt="Kubernetes"/>
 <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"
 alt="Amazon AWS"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"
@@ -92,8 +84,6 @@ alt="Git"/>
 
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"
 alt="Visual Studio Code"/>
-<img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white"
-alt="Supabase"/>
 <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"
 alt="Socket.io"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
