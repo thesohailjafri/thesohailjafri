@@ -5,7 +5,7 @@
 - 👨‍💻 Remote Software Developer
 - 📚 Tech Enthusiast
 - 🏗️ Aspiring Software Architect
-- 🌱 Currently learning **DevOps, D3.js, WebRTC**
+- 🌱 Currently learning **Flutter**
 
 ## 🛠 Tech Stack
 
