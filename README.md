@@ -5,7 +5,6 @@
 - 👨‍💻 Remote Software Developer
 - 📚 Tech Enthusiast
 - 🏗️ Aspiring Software Architect
-- 🌱 Currently learning **Flutter**
 
 ## 🛠 Tech Stack
 
