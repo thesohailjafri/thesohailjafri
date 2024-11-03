@@ -26,7 +26,7 @@ alt="CSS"/>
 alt="Sass"/>
 <img src="https://img.shields.io/badge/Recoil-FFFFFF?style=for-the-badge&logo=recoil&logoColor=black"
 alt="Recoil"/>
-<img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white"
+<img src="https://img.shields.io/badge/Zustand-43853D?style=for-the-badge&logo=react&logoColor=white"
 alt="Zustand"/>
 <img src="https://img.shields.io/badge/React%20Query-000000?style=for-the-badge&logo=react-query&logoColor=white"
 alt="React Query"/>
@@ -86,6 +86,8 @@ alt="Postman"/>
 alt="Insomnia"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
 alt="Figma"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"
+alt="Notion"/>
 
 ## 📊 My Github Stats
 
