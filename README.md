@@ -18,16 +18,12 @@ alt="React"/>
 alt="Next.js"/>
 <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
 alt="Tailwind CSS"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
-alt="Bootstrap"/>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"
 alt="HTML"/>
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"
 alt="CSS"/>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"
 alt="Sass"/>
-<img src="https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&logoColor=white"
-alt="Less"/>
 <img src="https://img.shields.io/badge/Recoil-FFFFFF?style=for-the-badge&logo=recoil&logoColor=black"
 alt="Recoil"/>
 <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white"
@@ -80,6 +76,7 @@ alt="Vercel"/>
 alt="Linux"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
 alt="Git"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="TurboRepo"/>
 
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"
 alt="Visual Studio Code"/>
