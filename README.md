@@ -76,7 +76,7 @@ alt="Vercel"/>
 alt="Linux"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
 alt="Git"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="TurboRepo"/>
+<img src="https://img.shields.io/badge/-Turborepo-EF4444?style=flat&logo=turborepo&logoColor=white" alt="TurboRepo"/>
 
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"
 alt="Visual Studio Code"/>
